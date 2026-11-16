@@ -1,8 +1,14 @@
 # ThanatLive
 
+**[เว็บดาวน์โหลดและคู่มือติดตั้ง / Download & setup guide](https://thanatlive-download-88131.web.app)**
+
+เลือก ไทย / English ได้ในหน้าตั้งค่าครั้งแรกและแถบซ้ายของโปรแกรม เมนูและวิธีตั้งค่าเปลี่ยนภาษาได้ โดยข้อความในเกมคงเดิม
+
+Choose Thai or English in the first-run guide or sidebar. Your language preference is saved. Game content and viewer commands stay unchanged.
+
 เกมโต้ตอบสำหรับ TikTok LIVE พร้อม 52 เกม และตัวช่วยตั้งค่าครั้งแรกทีละขั้น
 
-**[ดาวน์โหลด ThanatLive 1.2.5 สำหรับ Windows](https://github.com/ThanatZhu/ThanatLive/releases/download/v1.2.5/ThanatLive-Setup-1.2.5.exe)** · [รีลีสล่าสุด](https://github.com/ThanatZhu/ThanatLive/releases/latest)
+**[ดาวน์โหลด ThanatLive 1.2.6 สำหรับ Windows](https://github.com/ThanatZhu/ThanatLive/releases/download/v1.2.6/ThanatLive-Setup-1.2.6.exe)** · [รีลีสล่าสุด](https://github.com/ThanatZhu/ThanatLive/releases/latest)
 
 ## ติดตั้งและเริ่มใช้งาน
 
@@ -17,7 +23,7 @@
 
 ต้องติดตั้งรุ่นล่าสุดทับด้วยตัวเอง **ครั้งเดียว** เนื่องจากเปลี่ยนกุญแจและช่องทางอัปเดต Windows หลังไม่พบกุญแจเซ็นเดิม รุ่นเก่าไม่สามารถรับกุญแจใหม่นี้ผ่านระบบอัปเดตได้
 
-จบไลฟ์ → ปิด ThanatLive → ดาวน์โหลดตัวติดตั้งด้านบน → ติดตั้งทับตำแหน่งเดิม → เปิดแล้วตรวจว่าขึ้น **1.2.5**
+จบไลฟ์ → ปิด ThanatLive → ดาวน์โหลดตัวติดตั้งด้านบน → ติดตั้งทับตำแหน่งเดิม → เปิดแล้วตรวจว่าขึ้น **1.2.6**
 
 ข้อมูลบัญชีและการตั้งค่า Desktop ยังคงอยู่ใน `%APPDATA%/ThanatLive/data` รุ่น 1.2.2–1.2.3 ใช้ขั้นตอนติดตั้งเดิมเพื่ออัปเดตมารุ่นล่าสุดหนึ่งครั้ง ตั้งแต่ 1.2.4 กด **อัปเดต → ดาวน์โหลดอัปเดต** จะเห็นหลอดดาวน์โหลดและจำนวน MB เมื่อตรวจ SHA-256 และลายเซ็นเสร็จ กด **รีสตาร์ทเพื่ออัปเดต** หลังจบไลฟ์ แอพจะติดตั้งอัตโนมัติและเปิดใหม่
 
