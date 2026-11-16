@@ -2,7 +2,7 @@
 
 เกมโต้ตอบสำหรับ TikTok LIVE พร้อม 52 เกม และตัวช่วยตั้งค่าครั้งแรกทีละขั้น
 
-**[ดาวน์โหลด ThanatLive 1.2.2 สำหรับ Windows](https://github.com/ThanatZhu/ThanatLive/releases/download/v1.2.2/ThanatLive-Setup-1.2.2.exe)** · [รีลีสล่าสุด](https://github.com/ThanatZhu/ThanatLive/releases/latest)
+**[ดาวน์โหลด ThanatLive 1.2.3 สำหรับ Windows](https://github.com/ThanatZhu/ThanatLive/releases/download/v1.2.3/ThanatLive-Setup-1.2.3.exe)** · [รีลีสล่าสุด](https://github.com/ThanatZhu/ThanatLive/releases/latest)
 
 ## ติดตั้งและเริ่มใช้งาน
 
